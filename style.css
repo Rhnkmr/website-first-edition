@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+}
+
+p {
+	font-family: "Crimson Text";
+}
+
+.page {
+	width: 100%;
+	height: 100vh;
+	text-align: center;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.intro {
+	font-size: 144px;
+	color: #E4617B;
+
+}
+
+.hyperlink {
+	text-decoration: none;
+	color: black;
+
+}
+
+.hyperlink:hover {
+	color: #E4617B;
+	text-decoration-line: underline;
+}
+
+.ucla:hover {
+	color: lightblue;
+}
+.centered-main {
+	font-size: 75px;
+	color: white;
+
+}
+
+.weird {
+	text-align: center;
+}
+.weird2 {
+	text-align: left;
+	}
+.center {
+/*	text-align: center;
+*/	
+	width: 100%;
+}
+.tester{
+	background-color: #E4617B;
+	width: 100%;
+	height: 100vh;
+	display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.page3 {
+	width: 100%;
+	height: 100vh;
+	text-align: center;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.social-icons {
+	width: 50px;
+	height: auto;
+	justify-content: center;
+	text-align: center;
+}
+
+.bio{
+	position:absolute;
+   	text-align: center;
+
+}
+
+.intro1 {
+	left:50%;
+	top: 50%;
+	transform: translate(50%, 50%);
+		background-color: #E4617B;
+	display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
